@@ -1,0 +1,111 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: #2797cb;
+}
+
+.bagianatas {
+    width: 100%;
+    background-color: #04104a;
+    display: flex;
+    margin: 0%;
+    height: 95px;
+    position: fixed;
+}
+
+.nama {
+    margin-right: 7px;
+    margin-left: 6%;
+    color:lightskyblue;
+    font-size: 33px;
+}
+
+
+.nama1 {
+    color: azure;
+    margin: 11px;
+    font-size: 33px;
+    
+}
+
+.item {
+    display: flex;
+    font-weight: bold;
+    font-family: cursive;
+    width: 60%;
+    margin-left: 0%;
+    font-size: 30px;
+    align-items: center;
+    
+}
+
+.itemkanan {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    
+}
+
+.aboutme {
+    padding: 7px 25px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: lightskyblue;
+    text-decoration: none;
+    margin-right: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.aboutme:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+
+.Content {
+    padding: 7px 25px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: lightskyblue;
+    text-decoration: none;
+    margin-right: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Content:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+
+.Biodata {
+    padding: 7px 25px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: lightskyblue;
+    text-decoration: none;
+    margin-right: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Biodata:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+
+.myproject {
+    padding: 7px 25px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: lightskyblue;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+    
+.myproject:hover {
+    background-color: lightskyblue;
+    color: white;
+}
