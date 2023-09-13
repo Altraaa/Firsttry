@@ -42,7 +42,9 @@ body{
 .itemkanan {
     display: flex;
     align-items: center;
+    justify-content: right;
     width: 40%;
+    margin-right: 4%;
     
 }
 
